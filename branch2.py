@@ -1,1 +1,1 @@
-print("Hello Branch2.py")
+print("Branch2.py")
